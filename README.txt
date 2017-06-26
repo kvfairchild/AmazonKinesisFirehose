@@ -1,4 +1,4 @@
-This folder includes:
+Project files:
 
 
 1. NASA.java
