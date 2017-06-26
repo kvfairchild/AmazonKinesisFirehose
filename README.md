@@ -1,2 +1,0 @@
-# AmazonKinesisFirehose
-# power-rangers
